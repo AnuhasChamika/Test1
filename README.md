@@ -19,7 +19,7 @@ $ git clone https://github.com/AnuhasChamika/Test1
 
 $ cd Test1
 
-$ python2 test.py
+$ python2 Test.py
 
 
 ## Thanks for using my comands
